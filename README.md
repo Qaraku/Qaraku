@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning go.
 
 
-[![Qaraku's github stats](https://github-readme-stats.vercel.app/api?username=Qaraku)](https://github.com/anuraghazra/github-readme-stats)
+[![Qaraku's github stats](https://github-readme-stats-ten-sage-85.vercel.app/api?username=Qaraku)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Qaraku/Qaraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
